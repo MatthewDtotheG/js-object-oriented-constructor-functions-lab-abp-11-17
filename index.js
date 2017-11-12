@@ -1,7 +1,7 @@
-function Scooter(){
-  
-}
+function Scooter() {}
 
-function Driver(){
+function Driver() {}
+
+function PickupLocation(){
   
 }
