@@ -2,6 +2,4 @@ function Scooter() {}
 
 function Driver() {}
 
-function PickupLocation(){
-  
-}
+function PickupLocation(){}
